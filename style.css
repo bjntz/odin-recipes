@@ -1,0 +1,17 @@
+h1 {
+    background-color: lightblue;
+    color: slateblue;
+    font-size: 36px;
+}
+
+ul {
+    background-color: aliceblue;
+    color: darkslateblue;
+}
+
+li {
+    color: red;
+    font-family: "Times New Roman", Tahoma, sans-serif;
+    font-size: 18px;
+}
+
