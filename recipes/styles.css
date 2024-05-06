@@ -1,0 +1,12 @@
+h1 {
+    background-color: lightblue;
+    color: slateblue;
+    font-size: 36px;
+}
+
+h3 {
+    background-color: darkseagreen;
+    color: darkgreen;
+    font-size: 18px;
+    font-family: "Times New Roman", Tahoma, sans-serif;
+}
